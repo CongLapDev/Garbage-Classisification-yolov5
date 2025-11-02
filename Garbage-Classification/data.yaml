@@ -1,0 +1,14 @@
+# Garbage classification dataset
+path: D:\garbage\dataset  # đường dẫn tới folder dataset
+train: train
+val: valid
+test: test
+
+# Các lớp
+names:
+  0: cardboard
+  1: glass
+  2: metal
+  3: paper
+  4: plastic
+  5: trash
